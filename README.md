@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnty999" alt="Profile Views" /> </p>
-totally not botted, believe me
+hi :p
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnty999&show_icons=true&theme=dark&locale=en" alt="azlxy" /></p>
 <!--
