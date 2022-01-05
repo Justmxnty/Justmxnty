@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 ![Discord Profile](https://discord.c99.nl/widget/theme-3/596037771563630603.png)
  
